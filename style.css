@@ -32,5 +32,8 @@ body {
 
     #compa-senha{
         background-color: var(--fundo-senha);
-        
+        border: none;
+        color: var(--branco);
+        font-family: var(--roboto-monom);
+            
     }
