@@ -55,4 +55,26 @@ body {
         padding: 24px;
     }
 
-    .parametro{}
+    .parametro{
+        font-family: var(--roboto-monom);
+        font-size: 28px;
+    }
+
+    .parametro-senha_titulo{
+        font-size: 24px;
+    }
+
+    .parametro-coluna_senha{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+.parametro-senha{
+    width: 50px;
+    margin: 0 auto;
+}
+
+.parametro-senha-botoes{
+    display: flex;
+    
+}
