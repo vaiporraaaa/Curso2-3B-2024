@@ -95,3 +95,12 @@ body {
     font-size: 24px;
 }
 
+label{
+    font-size: 20px;
+}
+
+.checkbok{
+    width: 20px;
+    height: 20px;
+    color: pointer;
+}
