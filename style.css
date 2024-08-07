@@ -121,5 +121,20 @@ label{
 }
 .media{
     background-color: #FAF40B;
-    
+    width: 50%;
+}
+.forte{
+    background-color: #00FF85;
+    width: 100%;
+}
+
+.parametro-senha_textos{
+    display: flex;
+    justify-content: space-between;
+}
+ 
+@media screen and (min-wildth: 768px){
+    .parametro-coluna_senha{
+        flex-direction: row;
+    }
 }
